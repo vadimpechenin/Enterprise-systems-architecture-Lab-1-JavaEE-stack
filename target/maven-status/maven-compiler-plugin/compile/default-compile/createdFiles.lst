@@ -1,0 +1,4 @@
+entity\Machine.class
+beans\WorkerBean.class
+entity\Worker.class
+servlets\MainServlet.class
